@@ -1,5 +1,5 @@
 {
-  "name": "home_study",
+  "name": "home_study_3",
   "version": "1.0.0",
   "description": "Basic JavaScript project for demonstration of programming concepts",
   "main": "app/library.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elahsoft/Andela-Bootcamp-Home-Assignment.git"
+    "url": "git+https://github.com/elahsoft/andela_bootcamp_assignment_3.git"
   },
   "author": "OPARA FEBECHUKWU CHINONYEREM",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/elahsoft/Andela-Bootcamp-Home-Assignment/issues"
+    "url": "https://github.com/elahsoft/andela_bootcamp_assignment_3/issues"
   },
-  "homepage": "https://github.com/elahsoft/Andela-Bootcamp-Home-Assignmen#readme",
+  "homepage": "https://github.com/elahsoft/andela_bootcamp_assignment_3#readme",
   "dependencies": {
     "chai": "^3.5.0",
     "expect": "^1.20.2"
